@@ -65,7 +65,7 @@ Check out my repositories below — a mix of school projects, scripts, and exper
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PetroProg&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroProg&layout=compact&theme=catppuccin_mocha&hide_border=true&cache_seconds=1800)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,php,cpp,html,css,linux,docker,git,powershell,arduino,mysql)](https://skillicons.dev)
 
 </div>
 
