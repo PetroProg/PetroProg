@@ -63,9 +63,9 @@ Check out my repositories below — a mix of school projects, scripts, and exper
 
 <div align="center">
 
-![PetroProg's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetroProg&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PetroProg&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroProg&layout=compact&theme=catppuccin_mocha&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroProg&layout=compact&theme=catppuccin_mocha&hide_border=true&cache_seconds=1800)
 
 </div>
 
