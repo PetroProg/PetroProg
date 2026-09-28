@@ -53,9 +53,21 @@ I'm exploring DevOps and containerization, and building practical projects along
 
 ## 📂 Selected Projects
 
+### ⭐ Featured
+
+- [**AI-news**](https://github.com/PetroProg/AI-news) `Python` — Self-hosted personal AI news aggregator powered by local LLMs (Ollama), PostgreSQL, Docker, and Telegram. **Built entirely with AI.** `#docker` `#ollama` `#postgresql` `#telegram`
+
 ### More projects
 
-Check out my repositories below — a mix of school projects, scripts, and experiments.
+- [**PhoneShop**](https://github.com/PetroProg/PhoneShop) `PHP` — Practice full-stack phone store web app built with PHP, vanilla JS, and Tailwind CSS. Deployed on a personal VPS with Nginx + MariaDB + Docker.
+
+- [**Couteau-Suisse**](https://github.com/PetroProg/Couteau-Suisse) `C#` — Swiss Army knife CLI tool: converts text to Morse code, binary, and octal. School project at ETML.
+
+- [**Config-Win11**](https://github.com/PetroProg/Config-Win11) `Batch` — Batch scripts to make Windows 11 look like Windows 10 — without admin rights.
+
+- [**CollectingPC-Info**](https://github.com/PetroProg/CollectingPC-Info) `PowerShell` — PowerShell script that collects hardware and network info from local or remote Windows machines and saves it to a `.log` file.
+
+- [**Script4Sorting**](https://github.com/PetroProg/Script4Sorting) `PowerShell` — Automatically sorts photos, videos, and other files into organized folders.
 
 ---
 
