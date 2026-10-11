@@ -4,16 +4,17 @@
 
 **Apprenti ETML · Infrastructure · 2ème année**
 
-*Linux. Docker. Code. Solutions.*
+*Linux. Docker. Self-hosting. Networks.*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=89B4FA&background=1E1E2EFF&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Systems;Linux+%2F+Docker+%2F+DevOps;Python+%2F+C%23+%2F+PHP+%2F+SQL;Automation+and+scripting;Learning+something+new+every+day" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=1E66F5&background=EFF1F5FF&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Systems;Linux+%2F+Docker+%2F+DevOps;Python+%2F+C%23+%2F+PHP+%2F+SQL;Automation+and+scripting;Learning+something+new+every+day" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=1E66F5&background=EFF1F5FF&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Systems;Linux+%2F+Docker+%2F+DevOps;Python+%2F+C%23+%2F+PHP+%2F+SQL;Automation+and+scripting;Learning+something+new+every+day" alt="Typing animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=CBA6F7&background=1E1E2EFF&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Systems;Linux+%2F+Docker+%2F+Self-hosting;Cisco+networking+%26+security;React+%2F+FastAPI+%2F+Fastify;PowerShell+automation;Learning+something+new+every+day" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=8839EF&background=EFF1F5FF&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Systems;Linux+%2F+Docker+%2F+Self-hosting;Cisco+networking+%26+security;React+%2F+FastAPI+%2F+Fastify;PowerShell+automation;Learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=8839EF&background=EFF1F5FF&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Systems;Linux+%2F+Docker+%2F+Self-hosting;Cisco+networking+%26+security;React+%2F+FastAPI+%2F+Fastify;PowerShell+automation;Learning+something+new+every+day" alt="Typing animation" />
 </picture>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PetroProg-89b4fa?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e)](https://github.com/PetroProg)
+[![GitHub](https://img.shields.io/badge/GitHub-PetroProg-cba6f7?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e)](https://github.com/PetroProg)
 [![Repos](https://img.shields.io/badge/Repositories-View%20All-a6e3a1?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e)](https://github.com/PetroProg?tab=repositories)
+[![ETML](https://img.shields.io/badge/School-ETML-89b4fa?style=for-the-badge&logo=googlescholar&logoColor=cdd6f4&labelColor=1e1e2e)](https://www.etml.ch)
 
 </div>
 
@@ -21,33 +22,33 @@
 
 ## About
 
-I'm an infrastructure apprentice at ETML in my 2nd year. My foundation is systems and infrastructure — Linux, Docker, and automation are what drive me. I enjoy building things that work reliably and cleanly.
+I'm a 2nd-year infrastructure apprentice at ETML. Systems and networks are my foundation — Linux, Docker, and automation are what drive me. I like building things that work reliably on modest hardware.
 
-Beyond infra, I write code in Python, C#, PHP, SQL, and sometimes C++ for Arduino projects. PowerShell scripting is also part of my toolkit.
+I run my own **home server**, where I self-host apps I build myself: a Spotify-style music streamer on top of Jellyfin, a recipe app with macro tracking, and a local-LLM news aggregator — all containerized with Docker and reachable through Tailscale.
 
-I'm exploring DevOps and containerization, and building practical projects along the way.
+At school I work on **Cisco networking** (VLANs, inter-VLAN routing, ACLs, ASA firewall) and **PowerShell automation**. On the dev side I write Python, C#, PHP, TypeScript/React, and sometimes C++ for Arduino.
+
+Currently exploring DevOps and containerization.
 
 ---
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=py,ts,js,cs,php,cpp,html,css,powershell,bash&theme=dark)](https://skillicons.dev)
 
-**Infrastructure & Tools**
+**Frameworks**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,nodejs&theme=dark)](https://skillicons.dev)
+
+**Infrastructure & Databases**
+
+[![Infra](https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,postgres,mysql,sqlite,git,arduino&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -55,19 +56,26 @@ I'm exploring DevOps and containerization, and building practical projects along
 
 ### ⭐ Featured
 
-- [**AI-news**](https://github.com/PetroProg/AI-news) `Python` — Self-hosted personal AI news aggregator powered by local LLMs (Ollama), PostgreSQL, Docker, and Telegram. **Built entirely with AI.** `#docker` `#ollama` `#postgresql` `#telegram`
+- [**Jellyfin-Spotify**](https://github.com/PetroProg/Jellyfin-Spotify) `TypeScript` — Self-hosted Spotify-style music streaming PWA built on **Jellyfin Core**, with a Catppuccin Mocha UI. Direct-stream playback (no transcoding, optimized for a Celeron N3060), Spotify playlist import, smart shuffle, multi-user support, and HTTPS via Tailscale. `React` `Fastify` `SQLite` `yt-dlp` `Docker`
 
-### More projects
+- [**Recipe-App**](https://github.com/PetroProg/Recipe-App) `JavaScript` — Minimalist recipe PWA that calculates macros (calories, protein, fat, carbs) for your exact portion size, with 1-click export to Yazio / FatSecret. Catppuccin theme, installable on Android & iOS. `React` `FastAPI` `SQLite` `Docker`
 
-- [**PhoneShop**](https://github.com/PetroProg/PhoneShop) `PHP` — Practice full-stack phone store web app built with PHP, vanilla JS, and Tailwind CSS. Deployed on a personal VPS with Nginx + MariaDB + Docker.
+- [**AI-news**](https://github.com/PetroProg/AI-news) `Python` — Self-hosted personal AI news aggregator powered by local LLMs (Ollama), PostgreSQL, and Telegram, running on Ubuntu Server. 🤖 **Built entirely with AI.** `Ollama` `PostgreSQL` `Telethon` `Docker`
 
-- [**Couteau-Suisse**](https://github.com/PetroProg/Couteau-Suisse) `C#` — Swiss Army knife CLI tool: converts text to Morse code, binary, and octal. School project at ETML.
+### 🌐 Networking
 
-- [**Config-Win11**](https://github.com/PetroProg/Config-Win11) `Batch` — Batch scripts to make Windows 11 look like Windows 10 — without admin rights.
+- [**Cisco-Entreprise-Project**](https://github.com/PetroProg/Cisco-Entreprise-Project) `Packet Tracer` — Design, simulation, and security of a multi-site municipal network: inter-VLAN routing (L3 / Router-on-a-Stick), SFP fiber links, centralized DHCP, isolated guest Wi-Fi with ACLs, and a Cisco ASA perimeter firewall. ETML project.
 
-- [**CollectingPC-Info**](https://github.com/PetroProg/CollectingPC-Info) `PowerShell` — PowerShell script that collects hardware and network info from local or remote Windows machines and saves it to a `.log` file.
+### ⚙️ Scripts & Automation
 
+- [**CollectingPC-Info**](https://github.com/PetroProg/CollectingPC-Info) `PowerShell` — Collects hardware and system info from local or remote Windows machines and saves it to a `.log` file.
 - [**Script4Sorting**](https://github.com/PetroProg/Script4Sorting) `PowerShell` — Automatically sorts photos, videos, and other files into organized folders.
+- [**Config-Win11**](https://github.com/PetroProg/Config-Win11) `Batch` — Makes Windows 11 look like Windows 10, without admin rights.
+
+### 💻 Other
+
+- [**PhoneShop**](https://github.com/PetroProg/PhoneShop) `PHP` — Practice full-stack phone store built with PHP, vanilla JS, and Tailwind CSS. Deployed on a VPS with Nginx, MariaDB, and Docker. [Live demo →](https://vps-petroprog.vps.section-inf.tech/index.php)
+- [**Couteau-Suisse**](https://github.com/PetroProg/Couteau-Suisse) `C#` — Swiss Army knife console tool: converts text to Morse code, binary, and octal. ETML project.
 
 ---
 
@@ -76,8 +84,6 @@ I'm exploring DevOps and containerization, and building practical projects along
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PetroProg&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-[![My Skills](https://skillicons.dev/icons?i=py,cs,php,cpp,html,css,linux,docker,git,powershell,arduino,mysql)](https://skillicons.dev)
 
 </div>
 
